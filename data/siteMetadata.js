@@ -6,7 +6,7 @@ const siteMetadata = {
   snippets: 'Reuseable code snippets collected by Vedika',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://musing.vercel.app',
+  siteUrl: 'https://rxvisionary.org',
   siteRepo: 'https://github.com/pycoder2000/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
