@@ -1,6 +1,6 @@
 // import Link from '@/components/Link'
-import Analytics from 'components/metrics/Analytics'
-import Twitter from '@/components/metrics/Twitter'
+// import Analytics from 'components/metrics/Analytics'
+//import Twitter from '@/components/metrics/Twitter'
 import GithubPersonal from '@/components/metrics/GithubPersonal'
 import GitHub from '@/components/metrics/Github'
 import siteMetadata from '@/data/siteMetadata'
