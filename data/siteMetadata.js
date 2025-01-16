@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/pycoder2000/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/avatar.png',
   email: 'markvedika@gmail.com',
   github: 'https://github.com/pycoder2000',
   twitter: '#',
